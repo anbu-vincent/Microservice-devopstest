@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.devopstest.eureka.EurekaServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.621 sec - in com.devopstest.eureka.EurekaServiceApplicationTests
