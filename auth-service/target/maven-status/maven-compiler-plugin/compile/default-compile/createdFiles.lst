@@ -1,0 +1,8 @@
+com/devopstest/auth/config/OAuth2AuthorizationServerConfig.class
+com/devopstest/auth/domain/Account.class
+com/devopstest/auth/AuthServiceApplication.class
+com/devopstest/auth/config/OAuth2ResourceServerConfig.class
+com/devopstest/auth/controller/PrincipalRestController.class
+com/devopstest/auth/repository/AccountRepository.class
+com/devopstest/auth/service/SampleAccountDataCLR.class
+com/devopstest/auth/service/UserAccountService.class
