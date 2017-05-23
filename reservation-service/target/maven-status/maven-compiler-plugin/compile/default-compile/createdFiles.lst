@@ -1,0 +1,5 @@
+com/devopstest/reservation/job/ScheduledJob.class
+com/devopstest/reservation/controller/MessageRestController.class
+com/devopstest/reservation/db/domain/Reservation.class
+com/devopstest/reservation/ReservationServiceApplication.class
+com/devopstest/reservation/db/repository/ReservationRepository.class
