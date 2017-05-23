@@ -1,0 +1,8 @@
+./startEurekaService &
+./startConfigService &
+./startAuthService &
+./startHystrixDashboard &
+./startReservationService &
+./startZipkinService &
+./startEdgeService &
+./startCompositeService

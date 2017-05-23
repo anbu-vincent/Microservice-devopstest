@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar ./eureka-service/target/eureka-service-*.jar

@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar ./auth-service/target/auth-service-*.jar

@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar ./composite-service/target/composite-service-*.jar

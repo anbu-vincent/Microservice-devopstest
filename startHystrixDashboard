@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar ./hystrix-dashboard/target/hystrix-dashboard-*.jar

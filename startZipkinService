@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar ./zipkin-service/target/zipkin-service-*.jar

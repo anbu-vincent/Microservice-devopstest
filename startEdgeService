@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar ./edge-service/target/edge-service-*.jar

@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar ./config-service/target/config-service-*.jar
