@@ -1,0 +1,6 @@
+/Users/anbuvin/Documents/Projects/Microservice-devopstest/edge-service/src/main/java/com/devopstest/gateway/ReservationClientApplication.java
+/Users/anbuvin/Documents/Projects/Microservice-devopstest/edge-service/src/main/java/com/devopstest/gateway/controller/ReservationApiGateway.java
+/Users/anbuvin/Documents/Projects/Microservice-devopstest/edge-service/src/main/java/com/devopstest/gateway/api/CompositeReader.java
+/Users/anbuvin/Documents/Projects/Microservice-devopstest/edge-service/src/main/java/com/devopstest/gateway/security/SecurityConfig.java
+/Users/anbuvin/Documents/Projects/Microservice-devopstest/edge-service/src/main/java/com/devopstest/gateway/model/Reservation.java
+/Users/anbuvin/Documents/Projects/Microservice-devopstest/edge-service/src/main/java/com/devopstest/gateway/service/GatewayService.java

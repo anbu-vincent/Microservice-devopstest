@@ -1,0 +1,6 @@
+com/devopstest/gateway/api/CompositeReader.class
+com/devopstest/gateway/service/GatewayService.class
+com/devopstest/gateway/security/SecurityConfig.class
+com/devopstest/gateway/controller/ReservationApiGateway.class
+com/devopstest/gateway/ReservationClientApplication.class
+com/devopstest/gateway/model/Reservation.class
